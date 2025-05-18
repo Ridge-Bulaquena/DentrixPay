@@ -23,7 +23,7 @@ With DentrixPay, your practice can offer multiple secure payment options while r
 ---
 
 <div align="center">
-  <img src="[https://www.dentrix.com/products/eservices/dentrixpay/img/hero.jpg](https://www.dentrix.com/resources/images/dentrix_logo.png)" alt="DentrixPay Hero" width="800">
+  <img src="https://www.dentrix.com/resources/images/dentrix_logo.png" alt="Online Payment Options" width="300">
 </div>
 
 ---
