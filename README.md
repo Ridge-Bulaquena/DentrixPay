@@ -1,8 +1,8 @@
 # DentrixPay
 
 <div align="center">
+  <img src="https://www.dentrix.com/resources/images/dentrix_logo.png" alt="Online Payment Options" width="300">
   
-  ![DentrixPay]([https://www.dentrix.com/products/eservices/dentrixpay/img/header-dentrixpay.png](https://www.dentrix.com/resources/images/dentrix_logo.png))
 
   ### Empowering dental practices with streamlined payment solutions
   
@@ -49,7 +49,7 @@ With DentrixPay, your practice can offer multiple secure payment options while r
 ---
 
 <div align="center">
-  <img src="https://www.dentrix.com/products/eservices/dentrixpay/img/dentrixpay-img-online.jpg" alt="Online Payment Options" width="800">
+  <img src="https://www.dentrix.com/resources/images/dentrix_logo.png" alt="Online Payment Options" width="300">
   <p><em>Accept payments online with ease</em></p>
 </div>
 
@@ -67,7 +67,7 @@ DentrixPay has been implemented with a focus on:
 ---
 
 <div align="center">
-  <img src="https://www.dentrix.com/products/eservices/dentrixpay/img/dentrixpay-img-payment.jpg" alt="Payment Methods" width="800">
+  <img src="https://www.dentrix.com/resources/images/dentrix_logo.png" alt="Online Payment Options" width="300">
   <p><em>Offer flexible payment options to your patients</em></p>
 </div>
 
@@ -77,7 +77,9 @@ DentrixPay has been implemented with a focus on:
 
 ### Convenient Online Payments
 
-![Online Payments]([https://www.dentrix.com/products/eservices/dentrixpay/img/dentrixpay-img-mobile.jpg](https://www.dentrix.com/resources/images/dentrix_logo.png))
+![Online Payments]
+<div align="center">
+  <img src="https://www.dentrix.com/resources/images/dentrix_logo.png" alt="Online Payment Options" width="300">
 
 DentrixPay allows your patients to make payments anytime, anywhere, from any device. They can pay their balances, make payments toward treatment plans, and set up recurring payments.
 
@@ -129,7 +131,7 @@ DentrixPay requires the following configurations:
 ---
 
 <div align="center">
-  <img src="https://www.dentrix.com/products/eservices/dentrixpay/img/dentrixpay-img-desktop.jpg" alt="Desktop Dashboard" width="800">
+  <img src="https://www.dentrix.com/resources/images/dentrix_logo.png" alt="Online Payment Options" width="300">
   <p><em>Powerful practice dashboard with comprehensive analytics</em></p>
 </div>
 
