@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![DentrixPay](https://www.dentrix.com/products/eservices/dentrixpay/img/header-dentrixpay.png)
+  ![DentrixPay]([https://www.dentrix.com/products/eservices/dentrixpay/img/header-dentrixpay.png](https://www.dentrix.com/resources/images/dentrix_logo.png))
 
   ### Empowering dental practices with streamlined payment solutions
   
@@ -23,7 +23,7 @@ With DentrixPay, your practice can offer multiple secure payment options while r
 ---
 
 <div align="center">
-  <img src="https://www.dentrix.com/products/eservices/dentrixpay/img/hero.jpg" alt="DentrixPay Hero" width="800">
+  <img src="[https://www.dentrix.com/products/eservices/dentrixpay/img/hero.jpg](https://www.dentrix.com/resources/images/dentrix_logo.png)" alt="DentrixPay Hero" width="800">
 </div>
 
 ---
@@ -77,7 +77,7 @@ DentrixPay has been implemented with a focus on:
 
 ### Convenient Online Payments
 
-![Online Payments](https://www.dentrix.com/products/eservices/dentrixpay/img/dentrixpay-img-mobile.jpg)
+![Online Payments]([https://www.dentrix.com/products/eservices/dentrixpay/img/dentrixpay-img-mobile.jpg](https://www.dentrix.com/resources/images/dentrix_logo.png))
 
 DentrixPay allows your patients to make payments anytime, anywhere, from any device. They can pay their balances, make payments toward treatment plans, and set up recurring payments.
 
