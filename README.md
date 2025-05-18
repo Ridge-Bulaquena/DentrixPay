@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <img src="https://www.dentrix.com/products/eservices/dentrixpay/img/logo-henryscheinone.png" alt="Henry Schein One Logo" width="200">
+  <img src="https://www.dentrix.com/resources/images/dentrix_logo.png" alt="Online Payment Options" width="300">
   <p><em>DentrixPay is a registered trademark of Henry Schein One. This implementation is intended for demonstration purposes.</em></p>
 </div>
 
